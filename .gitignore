@@ -1,5 +1,11 @@
+*/__pycache__
 
-
-# ignore model
-/vosk-model-en-us-0.22
+# ignore models and audio
+/models/*
+/audio/*
+/transcription/*
+/video/*
+/TEMP
+/video-cuts/*
+/final/*
 
